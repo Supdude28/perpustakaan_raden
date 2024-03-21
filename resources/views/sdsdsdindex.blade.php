@@ -9,20 +9,22 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Anime | Template</title>
 
-    <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap"
-        rel="stylesheet">
+   <!-- Google Font -->
+   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap"
+   rel="stylesheet">
 
-    <!-- Css Styles -->
-    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/elegant-icons.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/plyr.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/nice-select.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/slicknav.min.css" type="text/css">
-    <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+   <!-- Css Styles -->
+   <link href="/assets/css/animate.css" rel="stylesheet" type="text/css" />
+
+   <link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css">
+   <link rel="stylesheet" href="/assets/css/font-awesome.min.css" type="text/css">
+   <link rel="stylesheet" href="/assets/css/elegant-icons.css" type="text/css">
+   <link rel="stylesheet" href="/assets/css/plyr.css" type="text/css">
+   <link rel="stylesheet" href="/assets/css/nice-select.css" type="text/css">
+   <link rel="stylesheet" href="/assets/css/owl.carousel.min.css" type="text/css">
+   <link rel="stylesheet" href="/assets/css/slicknav.min.css" type="text/css">
+   <link rel="stylesheet" href="/assets/css/style.css" type="text/css">>
 </head>
 
 <body>
